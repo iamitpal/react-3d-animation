@@ -1,7 +1,7 @@
 # React 3D Animation
 
 
-<h2 align="center">React 3D Animation for better UI/UX using Three.js,Webgi,gsap and react.</h2>
+<h2 align="center">React 3D Animation for better UI/UX using Three.js,Webgi,Gsap and React.</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="chakra-ui"/>
